@@ -1,3 +1,3 @@
 def introduction_with_language (name, language)
-  puts greeting
+  puts "Hello, #{name}. We heard you are a great #{language} programmer."
 end 
